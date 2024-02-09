@@ -1,7 +1,3 @@
-// Name : Nikhil Rastogi
-// Entry No : 2021MCB1240
-// Email Id : 2021mcb1240@iitrpr.ac.in
-
 // You can refer this video for better understanding :- https://www.youtube.com/watch?v=orIgy2MjqrA 
 // Reference - https://helix.stormhub.org/papers/SHA-256.pdf
 
